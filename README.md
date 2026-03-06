@@ -16,7 +16,9 @@ Getting Started:
 1. Download all files, including example .gcd files to the same folder. 
 2. Run SC_gait_classification.m
 3. Select the .gcd file that contains the gait data to analyze. Example files are included.
-4. Each classification will be output to the command window and to a figure. 
+4. Each classification will be output to the command window and to a figure.
+
+Note: Sample normative kinematic curves from our institition are provided. These normative curves can be replaced with your lab's normative values. 
 
 
 ![Example_Classification](https://github.com/user-attachments/assets/90ebdf17-7802-4a4c-96d9-998979cd6420)
